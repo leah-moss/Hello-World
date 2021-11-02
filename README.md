@@ -31,6 +31,6 @@ Additional information pertaining to the project that aids in the readers unders
     
 [^1]: A footnote. 
 ### Versioning
-I have never heard the word versioning before. Using my handy dandy **context clues**, I can assume it means showing different versions of the code to explain changes that were made and why. 
+**Github versioning** 
 
 
